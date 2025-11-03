@@ -109,10 +109,8 @@ npm run build
 npm run deploy
 
 # 👨‍💻 Author
-
 Satyam Kumar
-Full Stack Software Engineer
-
+ 
 # 🪪 License
 
 This project is licensed under the MIT License – feel free to use and modify it for educational purposes.
