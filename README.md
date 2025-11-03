@@ -111,7 +111,7 @@ npm run deploy
 # 👨‍💻 Author
 
 Satyam Kumar
-Full Stack Software Engineer
+ - Full Stack Software Engineer
 
 # 🪪 License
 
