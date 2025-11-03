@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/e-learning-app-react-router/static/css/main.f0aca029.css",
+    "main.js": "/e-learning-app-react-router/static/js/main.b3dcea55.js",
+    "index.html": "/e-learning-app-react-router/index.html",
+    "main.f0aca029.css.map": "/e-learning-app-react-router/static/css/main.f0aca029.css.map",
+    "main.b3dcea55.js.map": "/e-learning-app-react-router/static/js/main.b3dcea55.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f0aca029.css",
+    "static/js/main.b3dcea55.js"
+  ]
+}
